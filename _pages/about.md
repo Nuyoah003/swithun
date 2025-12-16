@@ -27,9 +27,3 @@ Prior to my Ph.D. studies, I received my B.Eng. degree from **Southwest Universi
 
 ### 💡 Inspirations
 My research path is continuously illuminated by the pioneering works of leading scholars. I hold great admiration for the contributions of **Prof. [Ding Wang](https://cyber.nankai.edu.cn/)** (Nankai University) and **Prof. [Weili Han](https://cs.fudan.edu.cn/)** (Fudan University), whose fundamental works in password security have profoundly shaped my understanding of the field. I highly recommend their publications to anyone interested in this domain.
-
-<br>
-<div style="width: 50%; margin: 0 auto; text-align: center;">
-    <h4>Visitor Map</h4>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6gB53Hr_GJ3lWZi9FFSmcuCsQKmtBrh2VoZUYy2CnPs&cl=ffffff&w=a"></script>
-</div>
