@@ -3,7 +3,6 @@ title: "Improving Password Guessing With Isomorphism Modeling"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-10-01
 venue: 'IEEE Transactions on Information Forensics and Security'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11187398'
